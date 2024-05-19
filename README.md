@@ -38,3 +38,6 @@ Jsonwebtoken:➡️ A library for generating and verifying JSON Web Tokens (JWT)
 Multer:➡️ A middleware for handling multipart/form-data in Express.js.
 Music Metadata: ➡️ A library for extracting metadata from audio files.
 Nodemon: ➡️ A utility for automatically restarting the Node.js server when files change.
+![Screenshot (186)](Screenshot (186).png)
+
+
