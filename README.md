@@ -12,6 +12,7 @@ Responsive Design: Enjoy the app on various devices, including desktops, tablets
 Technologies Used
 
 Frontend
+
 React.js: A JavaScript library for building user interfaces.
 Redux Toolkit: A state management library for managing application state efficiently.
 Chakra UI: A simple, modular, and accessible component library for React applications.
@@ -25,6 +26,7 @@ Redux Saga: A library for managing side effects in Redux applications.
 Styled Components: A library for styling React components using tagged template literals.
 
 Backend
+
 Node.js: A JavaScript runtime for building server-side applications.
 Express.js: A minimal and flexible Node.js web application framework.
 MongoDB: A NoSQL database for storing Abyssinian music data and user information.
